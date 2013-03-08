@@ -1,10 +1,12 @@
 import sys
 
-sum =0
-n=0
+sum = 0
+n = 0
 
-for n in sys.stdin:
-    sum+=float(num)
-    n+=1
+#comment
+
+for num in sys.stdin:
+    sum += float(num)
+    n += 1
 
 print sum / n
