@@ -10,3 +10,4 @@ for num in sys.stdin:
     n += 1
 
 print sum / n
+print "Susan made this change."
