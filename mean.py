@@ -4,6 +4,7 @@ sum = 0
 n = 0
 
 #comment
+file_name = "data_2.txt'
 
 for num in open('data_2.txt'):
     sum += float(num)
