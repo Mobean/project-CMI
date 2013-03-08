@@ -5,7 +5,7 @@ n = 0
 
 #comment
 
-for num in open('data.txt'):
+for num in open('data_2.txt'):
     sum += float(num)
     n += 1
 
